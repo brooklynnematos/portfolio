@@ -173,7 +173,7 @@ function App() {
             <div className="lg:col-span-4 mb-8 lg:mb-0">
               <div className="aspect-w-1 aspect-h-1">
                 <img
-                  src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800"
+                  src="photos/4BB65917-3FBF-43BB-8B32-1BECB1663031_1_105_c.jpeg"
                   alt="Profile"
                   className="rounded-2xl shadow-xl object-cover w-full h-full"
                 />
