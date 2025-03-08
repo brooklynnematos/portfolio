@@ -17,7 +17,7 @@ function App() {
     {
       title: "SwiftCart - Modern E-Commerce Store",
       description: "A full-featured online store with cart functionality and secure payments",
-      image: "https://imgur.com/a/xLo49mw",
+      image: "https://i.postimg.cc/jdtbq3xh/Screenshot-2025-03-07-at-4-55-06-PM.png",
       technologies: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Vite"],
       link: "https://swiftcartshoppingstore.netlify.app/"
     },
