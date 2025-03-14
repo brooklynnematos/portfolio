@@ -22,11 +22,11 @@ function App() {
       link: "https://swiftcartshoppingstore.netlify.app/"
     },
     {
-      title: "Task Management App",
-      description: "Collaborative project management tool with real-time updates",
-      image: "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=800",
+      title: "Baking With Brookie",
+      description: "Your go-to blog for delicious recipes, baking tips, and sweet inspiration!",
+      image: "https://i.postimg.cc/hjpv5Wzr/Screenshot-2025-03-14-at-5-41-17-PM.png",
       technologies: ["React", "Firebase", "Material-UI"],
-      link: "#"
+      link: "https://baking-with-brookie.netlify.app/"
     },
     {
       title: "Social Media Dashboard",
