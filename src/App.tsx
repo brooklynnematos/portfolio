@@ -31,7 +31,7 @@ function App() {
     {
       title: "LM Finishing and Construction",
       description: "Fully-functional construction website with information and option to request an estimate",
-      image: "https://i.postimg.cc/rsjTGn5w/lmfinishing.png",
+      image: "https://i.postimg.cc/mZX6MWHF/Screenshot-2025-03-27-at-10-40-00-AM.png",
       technologies: ["React", "TypeScript", "Vite"],
       link: "https://lmfinishing.com/"
     }
