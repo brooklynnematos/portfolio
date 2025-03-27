@@ -29,11 +29,11 @@ function App() {
       link: "https://baking-with-brookie.netlify.app/"
     },
     {
-      title: "Social Media Dashboard",
-      description: "Analytics and management platform for social media accounts",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-      technologies: ["React", "TypeScript", "Chart.js"],
-      link: "#"
+      title: "LM Finishing and Construction",
+      description: "Fully-functional construction website with information and option to request an estimate",
+      image: "../dist/images/lmfinishing.png",
+      technologies: ["React", "TypeScript", "Vite"],
+      link: "https://lmfinishing.com/"
     }
   ];
 
