@@ -112,6 +112,8 @@ function App() {
                   </div>
                   <a
                     href={project.link}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="mt-4 inline-flex items-center text-blue-600 hover:text-blue-500"
                   >
                     View Project <ExternalLink size={16} className="ml-1" />
